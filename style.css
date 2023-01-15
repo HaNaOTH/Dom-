@@ -1,0 +1,16 @@
+.Total{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+
+}
+
+.Cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+i{
+    cursor: pointer;
+}
